@@ -1,3 +1,5 @@
 using nmcli
 nmcli device connect ens33
+nmcli connection show | grep enp0s3
+
  
