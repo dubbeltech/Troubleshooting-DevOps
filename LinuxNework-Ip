@@ -1,0 +1,3 @@
+using nmcli
+nmcli device connect ens33
+ 
